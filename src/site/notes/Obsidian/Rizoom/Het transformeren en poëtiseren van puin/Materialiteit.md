@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/obsidian/rizoom/het-transformeren-en-poetiseren-van-puin/materialiteit/"}
+---
+
+De bovenstaande vraag, die Barad stelt in haar essay 'Posthumanist Performativity', toont haar frustratie met een hiërarchisch denkbeeld dat de mens en diens taal boven materie stelt. Deze materialiteit wordt vervolgens gezien als een passief element, dat hooguit via taal te benaderen is. Barad, met haar achtergrond in de (theoretische) kwantumfysica, ontdekte dat materie – en vooral elektronen in haar geval – allesbehalve passief is. Discursieve praktijken zijn niet simpelweg gebaseerd op talige afspraken die los staan van de materiële wereld, maar ontstaan juist uit een voortdurende wisselwerking tussen die materiële wereld en theoretische bepalingen. Taal en materie, natuur en cultuur zijn constant met elkaar in wisselwerking; ze zijn verweven en vormen elkaar. Noch het menselijk subject, noch de niet-menselijke materialiteit heeft de overhand. Noch sociale constructen, noch positivistische waarnemingen vormen in afwezigheid van de ander onze realiteit.
