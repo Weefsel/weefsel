@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian/rizoom/het-transformeren-en-poetiseren-van-puin/hyper-object/"}
+{"dg-publish":true,"permalink":"/obsidian/rizoom/het-transformeren-en-poetiseren-van-puin/hyper-object/","noteIcon":"","created":"2025-11-29T14:44:07.896+01:00","updated":"2025-06-08T15:16:28.000+02:00"}
 ---
 
 Een _hyperobject_ is een groot en complex verschijnsel dat moeilijk in zijn geheel te begrijpen is. We komen deze tegen in verschillende vormen: denk aan [[Obsidian/Rizoom/Ecologie\|klimaatverandering]], globalisering of het [[Obsidian/Rizoom/Digitaliteit\|internet]] verschijnselen die altijd aanwezig zijn in ons dagelijks leven, maar die we niet direct kunnen waarnemen of aanraken. (Morton, T. (2013). _Hyperobjects)_

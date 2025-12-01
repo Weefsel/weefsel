@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian/rizoom/het-transformeren-en-poetiseren-van-puin/puin/"}
+{"dg-publish":true,"permalink":"/obsidian/rizoom/het-transformeren-en-poetiseren-van-puin/puin/","noteIcon":"","created":"2025-11-29T14:44:07.892+01:00","updated":"2025-11-25T19:09:25.000+01:00"}
 ---
 
 ### **Waarom kiezen we voor de term ‘puin’ en niet voor ‘afval’?**

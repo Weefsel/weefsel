@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian/rizoom/het-transformeren-en-poetiseren-van-puin/transformeren-en-poetiseren/"}
+{"dg-publish":true,"permalink":"/obsidian/rizoom/het-transformeren-en-poetiseren-van-puin/transformeren-en-poetiseren/","noteIcon":"","created":"2025-11-29T14:44:07.884+01:00","updated":"2025-05-26T20:09:22.000+02:00"}
 ---
 
 Bij het transformeren ondergaat puin een verandering door een ander medium of een zekere vertaling, waardoor het puin een andere waarde krijgt. Het transformeren zorgt ervoor dat we een bepaald object of onderwerp vanuit een ander standpunt gaan bekijken en benaderen. Door deze objecten op een andere manier te benaderen, stellen we de samenleving en vooral onszelf in vraag.

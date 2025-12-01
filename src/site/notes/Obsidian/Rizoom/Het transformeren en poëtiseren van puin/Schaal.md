@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian/rizoom/het-transformeren-en-poetiseren-van-puin/schaal/"}
+{"dg-publish":true,"permalink":"/obsidian/rizoom/het-transformeren-en-poetiseren-van-puin/schaal/","noteIcon":"","created":"2025-11-29T14:44:07.890+01:00","updated":"2025-05-30T12:03:33.000+02:00"}
 ---
 
 Een methodisch georganiseerde verzameling van voorwerpen leidt tot een betekenisvolle vorm van documentatie. Deze systematische aanpak toont niet alleen wetenschappelijke geloofwaardigheid, maar vormt ook de basis voor nauwkeurige observatie. Een treffend voorbeeld hiervan is het _Center for the Living Things_ (sinds 2016), een baanbrekend initiatief van de Poolse kunstenares Diana Lelonek. Zij onderzoekt de transformatie van de traditionele biosfeer naar wat zij de 'plastisfeer' noemt, een term voor de complexe micro- en macrobiotische gemeenschappen die zich aanpassen aan de alomtegenwoordige aanwezigheid van plastic in onze leefomgeving.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian/rizoom/het-transformeren-en-poetiseren-van-puin/het-transformeren-en-poetiseren-van-puin/"}
+{"dg-publish":true,"permalink":"/obsidian/rizoom/het-transformeren-en-poetiseren-van-puin/het-transformeren-en-poetiseren-van-puin/","noteIcon":"","created":"2025-11-29T14:44:07.886+01:00","updated":"2025-06-08T15:15:45.000+02:00"}
 ---
 
 We onderzoeken hoe [[Obsidian/Rizoom/Het transformeren en poëtiseren van puin/Puin\|Puin]] kan worden getransformeerd en tot iets wat [[Obsidian/Rizoom/Het transformeren en poëtiseren van puin/Verwonderen\|verwondering]] oproept. Het vertrekpunt is de observatie van kinderen die spontaan afval omtoveren tot iets nieuws, zoals het beschilderen van flessen om er muziekinstrumenten van te maken.⁠

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian/rizoom/artistieke-projecten/trash-score/"}
+{"dg-publish":true,"permalink":"/obsidian/rizoom/artistieke-projecten/trash-score/","noteIcon":"","created":"2025-11-29T14:44:07.846+01:00","updated":"2025-05-27T16:36:48.000+02:00"}
 ---
 
 ![materiaal boekje10.jpg](/img/user/Obsidian/Rizoom/materiaal%20boekje10.jpg)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian/rizoom/het-transformeren-en-poetiseren-van-puin/verwonderen/"}
+{"dg-publish":true,"permalink":"/obsidian/rizoom/het-transformeren-en-poetiseren-van-puin/verwonderen/","noteIcon":"","created":"2025-11-29T14:44:07.895+01:00","updated":"2025-05-22T22:36:50.000+02:00"}
 ---
 
 Hoe ontstaat verwondering? In het boek "The Matter of Wonder" van Biernacki, Loriliai vloeit het voort vanuit het ik. Als we ons verwonderen, wordt ons "ik" één met alles wat we zien. Dit "ik" is een natuurlijke kracht die vanzelf in ons opkomt, als een oerkracht die in alle mensen zit. Je zou kunnen zeggen dat alles wat we zien en ervaren verbonden is met hoe we onszelf voelen en beleven. Dit is een diep inzicht dat moeilijk in woorden te vatten is.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian/rizoom/kunstenaars/bjork/"}
+{"dg-publish":true,"permalink":"/obsidian/rizoom/kunstenaars/bjork/","noteIcon":"","created":"2025-11-29T14:44:07.851+01:00","updated":"2025-05-27T13:46:01.000+02:00"}
 ---
 
 #muziek #kunstenaar

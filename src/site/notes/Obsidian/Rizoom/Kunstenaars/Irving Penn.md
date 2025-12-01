@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian/rizoom/kunstenaars/irving-penn/"}
+{"dg-publish":true,"permalink":"/obsidian/rizoom/kunstenaars/irving-penn/","noteIcon":"","created":"2025-11-29T14:44:07.866+01:00","updated":"2025-05-25T20:03:22.000+02:00"}
 ---
 
 Penn ontwikkelde een bijzondere techniek voor zijn fotografische werk. Hij gebruikte een speciaal ontworpen draagbare camera met een uniek verlengstuk een serie buizen die de lens tot aan het trottoir verlengden terwijl hij op een klein, verplaatsbaar krukje zat. Deze ingenieuze opstelling stelde hem in staat om extreem gedetailleerde close-ups te maken van achteloos weggeworpen voorwerpen op straat, zoals platgetrapte kauwgom, half opgebrande lucifers en verkreukelde sigarettenpeuken. Door deze schijnbaar onbeduidende voorwerpen sterk vergroot af te drukken, transformeerde hij ze tot fascinerende objecten die de kijker op een nieuwe manier kon ervaren.
