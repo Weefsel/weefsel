@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bibliografie/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-02T15:07:40.767+01:00","updated":"2025-12-02T15:09:14.507+01:00"}
+{"dg-publish":true,"permalink":"/bibliografie/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-02T15:07:40.767+01:00","updated":"2025-12-02T16:15:07.152+01:00"}
 ---
 
 Abbott, E. A. (2020). _Flatland: A romance of many dimensions_. Penguin Classics.
@@ -18,7 +18,7 @@ Bos. (2016). _Bureaucratie is een inktvis_. Koninklijke Boom uitgevers.
 
 Center for the Living Things. (z.d.). _Diana Lelonek_. Geraadpleegd 6 juni 2025, van [http://dianalelonek.com/portfolio/center-for-the-living-things/](http://dianalelonek.com/portfolio/center-for-the-living-things/)
 
-DBNL. (z.d.). _Paul Pelckmans De ontologie van het afval, Streven. Jaargang 66_. DBNL; DBNL. Geraadpleegd 27 april 2025, van [https://www.dbnl.org/tekst/_str010199901_01/_str010199901_01_0022.php](https://www.dbnl.org/tekst/_str010199901_01/_str010199901_01_0022.php)[puin](https://aesthetic-cajeta-5f1a10.netlify.app/puin/)
+DBNL. (z.d.). _Paul Pelckmans De ontologie van het afval, Streven. Jaargang 66_. DBNL; DBNL. Geraadpleegd 27 april 2025, van [https://www.dbnl.org/tekst/_str010199901_01/_str010199901_01_0022.php](https://www.dbnl.org/tekst/_str010199901_01/_str010199901_01_0022.php)[puin]
 
 designboom, ravail khan I. (2024, september 27)  
 Dewey, J. (2005). _Art as experience_. Berkeley Publishing Group. (Oorspronkelijk werk gepubliceerd in 1934)
@@ -27,7 +27,6 @@ Fareskhdouj. (2022, februari 6). “Koyaanisqatsi”, A Film That Cannot Be Read
 
 Fowkes, M., & Fowkes, R. (2022). _Art and climate change_. Thames & Hudson.
 
-Fink, E., Moore, I. A., & Turner, C. (2016). _Play as symbol of the world: And other writings_. Indiana university press. [educatie](https://aesthetic-cajeta-5f1a10.netlify.app/educatie/)
 
 Gabriels, Katleen. _Onlife: hoe de digitale wereld je leven bepaalt_. Tielt: Lannoo, 2016.
 
@@ -37,21 +36,21 @@ Jenny Calivas—Self-Portraits While Buried—Exhibitions—Yancey Richardson_. 
 
 _Koyaanisqatsi | Museum of Arts and Design_. (z.d.). Geraadpleegd 9 juni 2025, van [https://madmuseum.org/events/koyaanisqatsi](https://madmuseum.org/events/koyaanisqatsi)
 
-Mackay, E. (2017, oktober 17). _Björk Is a Music Video Genius. Here Are 10 That Prove It._ Pitchfork. [https://pitchfork.com/thepitch/bjork-is-a-music-video-genius-heres-10-that-prove-it/](https://pitchfork.com/thepitch/bjork-is-a-music-video-genius-heres-10-that-prove-it/) [puin](https://aesthetic-cajeta-5f1a10.netlify.app/puin/)
+Mackay, E. (2017, oktober 17). _Björk Is a Music Video Genius. Here Are 10 That Prove It._ Pitchfork. [https://pitchfork.com/thepitch/bjork-is-a-music-video-genius-heres-10-that-prove-it/](https://pitchfork.com/thepitch/bjork-is-a-music-video-genius-heres-10-that-prove-it/) [puin]
 
-Mendes, S. (Regisseur). (2000, januari 20). _American Beauty_ [Drama]. Dreamworks Pictures, Jinks/Cohen Company.[puin](https://aesthetic-cajeta-5f1a10.netlify.app/puin/)
+Mendes, S. (Regisseur). (2000, januari 20). _American Beauty_ [Drama]. Dreamworks Pictures, Jinks/Cohen Company.[puin]
 
 Morton, Timothy. _Hyperobjects: Philosophy and Ecology after the End of the World_. Minneapolis: University of Minnesota Press, 2013.
 
-Mul, J. de. (2024). _Welkom in het symbioceen: Over de verstrengeling van natuur, cultuur en techniek_. Boom[puin](https://aesthetic-cajeta-5f1a10.netlify.app/puin/)
+Mul, J. de. (2024). _Welkom in het symbioceen: Over de verstrengeling van natuur, cultuur en techniek_. Boom[puin]
 
-Naughton, C., Biesta, G. J. J., & Cole, D. R. (Red.). (2018). _Art, artists and pedagogy: Philosophy and the arts in education_. Routledge.)_[educatie](https://aesthetic-cajeta-5f1a10.netlify.app/educatie/)
+Naughton, C., Biesta, G. J. J., & Cole, D. R. (Red.). (2018). _Art, artists and pedagogy: Philosophy and the arts in education_. Routledge.)_[educatie]
 
 Pauwels, C., & Moeyaert, B. (met Devynck, J., & Medaer, J.). (2023). _Ode aan de verwondering_. Uitgeverij Lannoo NV.
 
 Peuplierjaime (Regisseur). (2011, juli 16). _South Bank Show—Björk part 4_ [Video recording]. [https://www.youtube.com/watch?v=J1rvrM00ynA](https://www.youtube.com/watch?v=J1rvrM00ynA)
 
-Reumer, J. W. F. (2010). _Een prachtige puinhoop: Een bioloog kijkt naar de wereld_. Contact.[puin](https://aesthetic-cajeta-5f1a10.netlify.app/puin/)
+Reumer, J. W. F. (2010). _Een prachtige puinhoop: Een bioloog kijkt naar de wereld_. Contact.[puin]
 
 Roob, A. (2023). _Alchemy & mysticism: The hermetic museum_. Taschen.
 

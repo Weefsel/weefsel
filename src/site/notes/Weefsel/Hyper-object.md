@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/weefsel/hyper-object/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-02T14:35:16.654+01:00","updated":"2025-12-02T15:21:04.135+01:00"}
+{"dg-publish":true,"permalink":"/weefsel/hyper-object/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-02T14:35:16.654+01:00","updated":"2025-12-02T16:08:46.365+01:00"}
 ---
 
 Een _hyperobject_ is een groots en complex fenomeen dat zich moeilijk volledig laat bevatten. We ontmoeten het in uiteenlopende vormen: klimaatverandering, globalisering of het internet — verschijnselen die voortdurend aanwezig zijn in ons dagelijks leven, maar die we niet rechtstreeks kunnen waarnemen of aanraken (Morton, 2013).
@@ -8,7 +8,7 @@ Je kunt het vergelijken met een vis die niet weet wat water is, omdat hij er voo
 
 Hyperobjecten dwingen ons tot een andere manier van kijken. We kunnen ze niet objectief vanop afstand bestuderen, omdat we er zelf deel van uitmaken. Dit maakt ze niet alleen intrigerend, maar ook moeilijk te onderzoeken. Om ze te doorgronden, hebben we zowel wetenschap als filosofie nodig.
 
-De filosoof Timothy Morton stelt in _Hyperobjects_ (2013) dat we deze fenomenen het best benaderen met nieuwsgierigheid en openheid. Het analyseren ervan is vergelijkbaar met het werk van een hedendaagse [alchemist](https://aesthetic-cajeta-5f1a10.netlify.app/alchemist/): we zoeken voortdurend naar nieuwe manieren om het ongrijpbare te vatten.
+De filosoof Timothy Morton stelt in _Hyperobjects_ (2013) dat we deze fenomenen het best benaderen met nieuwsgierigheid en openheid. Het analyseren ervan is vergelijkbaar met het werk van een hedendaagse [alchemist]: we zoeken voortdurend naar nieuwe manieren om het ongrijpbare te vatten.
 
 Een treffende metafoor hiervoor vinden we in het boek _Flatland_ van Edwin Abbott (1884). Het beschrijft een tweedimensionale wereld waarin driedimensionale objecten verschijnen. De bewoners van Flatland kunnen deze echter enkel in 2D waarnemen – bijvoorbeeld als een uitdijende cirkel die in werkelijkheid een bol is. Deze metafoor helpt ons begrijpen hoe beperkt onze eigen waarneming soms is ten opzichte van grotere structuren waar we deel van uitmaken (Abbott, 2020).
 
