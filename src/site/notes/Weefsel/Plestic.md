@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/weefsel/plestic/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-02T14:35:16.683+01:00","updated":"2025-12-02T15:14:27.607+01:00"}
+{"dg-publish":true,"permalink":"/weefsel/plestic/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-02T14:35:16.683+01:00","updated":"2025-12-02T15:41:53.277+01:00"}
 ---
 
 
@@ -10,3 +10,5 @@ Geldt deze stelling echter enkel wanneer we, zoals ook bedoeld door Barthes, spr
 [Bibliografie](https://aesthetic-cajeta-5f1a10.netlify.app/bibliografie/)
 
 Barthes, R., Lavers, A., & Barthes, R. (2006). _Mythologies_ (47. [print.]). Hill and Wang.
+
+![Plastic.png](/img/user/Beelden/Plastic.png)
