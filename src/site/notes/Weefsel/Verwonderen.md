@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"permalink":"/weefsel/verwonderen/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-02T14:35:16.789+01:00","updated":"2025-12-02T15:17:20.929+01:00"}
+{"dg-publish":true,"dg-home":null,"permalink":"/weefsel/verwonderen/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-02T14:35:16.789+01:00","updated":"2025-12-02T16:13:58.651+01:00"}
 ---
 
 ## Verwondering als oerervaring van verbinding
@@ -28,7 +28,7 @@ Het gedicht van Bart Moeyaert, dat het boek van Pauwels inleidt, vangt deze bewe
 
 De spreekkracht van het kind dat het stuur wil overnemen, belichaamt zowel de frustratie over een gebrek aan uitzicht als de wil tot eigen ervaring. De verwondering die hieruit voortvloeit, is energiek, existentieel en speels. De humor in het gedicht transformeert de frustratie tot levenslust en vrijheid. Het gedicht suggereert dat verwondering niet alleen ontstaat vanuit openheid, maar ook uit een zekere _weerstand_ — een verlangen naar contact, naar een ander perspectief, naar de wereld die nog moet komen.
 
-[Bibliografie](https://aesthetic-cajeta-5f1a10.netlify.app/bibliografie/)
+[Bibliografie]
 
 Biernacki, L. (2023). _The matter of wonder: Abhinavagupta’s panentheism and the new materialism_. Oxford University Press.
 
