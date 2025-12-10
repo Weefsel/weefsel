@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/weefsel/kunstenaars/koyaanisqatsi/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-02T14:50:06.325+01:00","updated":"2025-12-02T16:07:02.326+01:00"}
+{"dg-publish":true,"permalink":"/weefsel/kunstenaars/koyaanisqatsi/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-02T14:50:06.325+01:00","updated":"2025-12-09T13:13:10.000+01:00"}
 ---
 
+#Film
 
 Deze film onderzoekt de verstoorde balans tussen mens, natuur en technologie via een beeldtaal die afwisselt tussen vertraging en versnelling. In poëtische sequenties toont het werk hoe wij het landschap hebben gevormd, en hoe wij, als in een mierenkolonie, opeengepakt leven in steeds dichter bevolkte, verstedelijkte omgevingen.
 

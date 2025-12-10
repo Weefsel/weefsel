@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/weefsel/kunstenaars/hadjithomas-and-khalil-joreige/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-02T14:48:33.910+01:00","updated":"2025-12-02T15:57:02.917+01:00"}
+{"dg-publish":true,"permalink":"/weefsel/kunstenaars/hadjithomas-and-khalil-joreige/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-02T14:48:33.910+01:00","updated":"2025-12-08T12:37:44.000+01:00"}
 ---
 
+#kunstenaar
 
 **A State**
 
@@ -12,7 +13,7 @@ De fotografische composities opgebouwd uit honderden beelden van de boorkernen �
 
 De gelaagdheid van het beeld, zowel letterlijk als figuurlijk, maakt het werk krachtig. Elke laag bevat een fragment van tijd, een bevroren moment in een onverteerbare geschiedenis. Het hyperrealisme vergroot de geloofwaardigheid van het werk: het lijkt bijna té tastbaar, té fysiek om verzonnen te zijn. Door de schaal van de reeks ontstaat een cartografie van afval – een atlas van menselijke nalatenschap.
 
-Zoals eerder benoemd in het rizoom, vormt deze afvalmassa een hedendaags hyperobject (Morton, 2013): iets dat ons handelen overstijgt in tijd en ruimte. Deze plastieken, deze kapotte restanten van het alledaagse, zullen ons overleven. Zij zijn de nieuwe sedimentlagen van het antropoceen, ons erfgoed in polymeren en chemie.
+Zoals eerder benoemd in het rizoom, vormt deze [[Weefsel/Puin\|afvalmassa]] een hedendaags [[Weefsel/Hyper-object\|Hyper-object]] (Morton, 2013): iets dat ons handelen overstijgt in tijd en ruimte. Deze plastieken, deze kapotte restanten van het alledaagse, zullen ons overleven. Zij zijn de nieuwe sedimentlagen van het antropoceen, ons erfgoed in polymeren en chemie.
 
 De esthetiek van _A State_ verleidt, maar ook confronteert ze. We kijken naar afval zoals we naar een landschap kijken, of naar een schilderij. En precies daar, in die schoonheid, sluipt de verstoring binnen. Wat als dit onze nieuwe horizon is?
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/weefsel/puin/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-02T14:35:16.709+01:00","updated":"2025-12-02T16:11:30.390+01:00"}
+{"dg-publish":true,"permalink":"/weefsel/puin/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-02T14:35:16.709+01:00","updated":"2025-12-02T19:42:58.778+01:00"}
 ---
 
 Puin of afval wordt door onze samenleving bij voorkeur zo snel en zo ver mogelijk uit het zicht verwijderd. We zetten het buiten op straat, waar het vervolgens opgehaald wordt — natuurlijk verdwijnt het niet echt. Zoals Timothy Morton beschrijft in zijn boek _Hyperobjects_, blijft afval bestaan, ook al doen we alsof het er niet meer is. Hij haalt bijvoorbeeld een geval aan uit de jaren 1990, waarin men probeerde plutonium in messen te verwerken — een bijzonder schadelijke en absurde onderneming. (Morton, T. (2013))
@@ -42,3 +42,13 @@ Mul, J. de. (2024). _Welkom in het symbioceen: Over de verstrengeling van natuur
 Mendes, S. (Regisseur). (2000, januari 20). _American Beauty_ [Drama]. Dreamworks Pictures, Jinks/Cohen Company.[puin]
 
 Reumer, J. W. F. (2010). _Een prachtige puinhoop: Een bioloog kijkt naar de wereld_. Contact.[puin]
+
+
+
+
+----------------------------------------------------------------------
+Dagognet bref retoure sur la matérialité
+
+Lisa doeland: afvalceen --> Marco Armiero
+
+

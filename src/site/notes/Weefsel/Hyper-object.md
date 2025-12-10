@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/weefsel/hyper-object/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-02T14:35:16.654+01:00","updated":"2025-12-02T16:08:46.365+01:00"}
+{"dg-publish":true,"permalink":"/weefsel/hyper-object/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-02T14:35:16.654+01:00","updated":"2025-12-02T19:58:53.086+01:00"}
 ---
 
 Een _hyperobject_ is een groots en complex fenomeen dat zich moeilijk volledig laat bevatten. We ontmoeten het in uiteenlopende vormen: klimaatverandering, globalisering of het internet — verschijnselen die voortdurend aanwezig zijn in ons dagelijks leven, maar die we niet rechtstreeks kunnen waarnemen of aanraken (Morton, 2013).
@@ -20,7 +20,7 @@ Het denken over hyperobjecten helpt ons om afval en [puin](https://aesthetic-caj
 
 Wanneer we [puin](https://aesthetic-cajeta-5f1a10.netlify.app/puin/) [poëtiseren](https://aesthetic-cajeta-5f1a10.netlify.app/404) maken we ruimte om het onzichtbare even tastbaar te maken. Niet om het op te lossen, maar om het toe te laten. Door afval niet langer weg te stoppen, maar er opnieuw naar te kijken, ontstaan openingen naar betekenis, naar vragen, naar verbeelding. In die zin lijkt het bestuderen van hyperobjecten op het [transformeren van puin](https://aesthetic-cajeta-5f1a10.netlify.app/transformeren-en-poetiseren/): beide vragen dat we ons vertrouwde perspectief verlaten, en ons durven verhouden tot iets dat groter is dan onszelf.
 
-Binnen een [educatie](https://aesthetic-cajeta-5f1a10.netlify.app/educatie/) context biedt dit een krachtig uitgangspunt. Door puin letterlijk en figuurlijk binnen te brengen, creëren we een ruimte waarin niet enkel gewerkt wordt met materiaal, maar ook met denken, voelen en verbeelden. Afval wordt zo niet alleen restmateriaal, maar ook drager van verhalen, keuzes en systemen. Het klaslokaal of atelier wordt een plek waar poëzie en kritiek elkaar ontmoeten – waar we samen oefenen in anders kijken, anders denken, en anders omgaan met datgene wat overblijft.
+
 
 [Bibliografie](https://aesthetic-cajeta-5f1a10.netlify.app/bibliografie/)
 
