@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/weefsel/puin/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-02T14:35:16.709+01:00","updated":"2025-12-02T19:42:58.778+01:00"}
+{"dg-publish":true,"permalink":"/weefsel/puin/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-02T14:35:16.709+01:00","updated":"2025-12-13T17:38:01.941+01:00"}
 ---
 
 Puin of afval wordt door onze samenleving bij voorkeur zo snel en zo ver mogelijk uit het zicht verwijderd. We zetten het buiten op straat, waar het vervolgens opgehaald wordt — natuurlijk verdwijnt het niet echt. Zoals Timothy Morton beschrijft in zijn boek _Hyperobjects_, blijft afval bestaan, ook al doen we alsof het er niet meer is. Hij haalt bijvoorbeeld een geval aan uit de jaren 1990, waarin men probeerde plutonium in messen te verwerken — een bijzonder schadelijke en absurde onderneming. (Morton, T. (2013))
@@ -26,6 +26,7 @@ Of gaat deze gedachtegang te ver? Er valt immers veel te leren uit afval, zoals 
 
 > “Afval, voedselresten en andere spullen zijn niet betekenisloos. Ze vertellen ons minstens iets over de vorige gebruiker: de detective, historicus en antropoloog – kortom, elke oplettende waarnemer – kan er eindeloos van leren.”  
 > (babelfgw. (2023)
+![aval avn overstromingen op verlaten snelweg Luik.png](/img/user/aval%20avn%20overstromingen%20op%20verlaten%20snelweg%20Luik.png)
 
 [Bibliografie]
 

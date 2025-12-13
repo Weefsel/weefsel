@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/weefsel/kunstenaars/kurt-schwitters/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-08T17:20:31.875+01:00","updated":"2025-12-09T13:13:14.000+01:00"}
+{"dg-publish":true,"permalink":"/weefsel/kunstenaars/kurt-schwitters/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-08T17:20:31.875+01:00","updated":"2025-12-13T16:48:59.128+01:00"}
 ---
 
-#Fotograaf 
+#kunstenaar 
 Kurt Schwitters gebruikte verweerde objecten in zijn latere _Merz_ installaties, waaronder afval uit de zee. Hij koos niet alleen voor deze materialen omdat acrylverf te duur was, maar ook omdat hij gefascineerd was door de sporen van tijd en verval. Hij verzamelde papier, hout, stenen, algen en zeesterren in verschillende stadia van verwering, waarmee hij composities maakte op houten wanden en margarinekisten in zijn huis.
 
 Een belangrijk aspect van zijn werkwijze, vooral zichtbaar in de _Merzbau_, was het creatieproces zelf. Schwitters begon met spontane, toevallige handelingen, die hij later hernam en in een compositorisch geheel plaatste. Dit procedé is ook terug te vinden in zijn klankgedicht _Ursonate_ (1932), waarin hij spontane oerklanken structureerde binnen een muzikale vorm. Zo stelde hij niet alleen taal, maar ook de vorm zelf zoals de sonate fundamenteel ter discussie.

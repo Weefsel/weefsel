@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/weefsel/hyper-object/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-02T14:35:16.654+01:00","updated":"2025-12-02T19:58:53.086+01:00"}
+{"dg-publish":true,"permalink":"/weefsel/hyper-object/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-02T14:35:16.654+01:00","updated":"2025-12-13T21:49:00.300+01:00"}
 ---
 
 Een _hyperobject_ is een groots en complex fenomeen dat zich moeilijk volledig laat bevatten. We ontmoeten het in uiteenlopende vormen: klimaatverandering, globalisering of het internet — verschijnselen die voortdurend aanwezig zijn in ons dagelijks leven, maar die we niet rechtstreeks kunnen waarnemen of aanraken (Morton, 2013).
@@ -16,11 +16,10 @@ De Nederlandse filosoof René ten Bos verwoordt het beeldend in _Bureaucratie is
 
 Ook de Franse filosoof Tristan Garcia levert een bijdrage aan dit debat in zijn boek _Form and Object_ (2014). Volgens Garcia hebben we een nieuw denkkader nodig om onze verhouding tot allesomvattende fenomenen als hyperobjecten echt te begrijpen (Garcia, Cogburn & Ohm, 2022).
 
-Het denken over hyperobjecten helpt ons om afval en [puin](https://aesthetic-cajeta-5f1a10.netlify.app/puin/) in een ander licht te zien. Het maakt zichtbaar hoe we deel uitmaken van grotere structuren – [ecologisch](https://aesthetic-cajeta-5f1a10.netlify.app/404), sociaal, economisch – waar we ons niet zomaar van kunnen losmaken. Zoals we klimaatverandering niet kunnen ‘zien’, maar wel voelen in een warme meimaand, zo zijn ook onze afvalbergen ongrijpbare lichamen die blijven groeien, deels buiten ons gezichtsveld.
+Het denken over hyperobjecten helpt ons om afval en [[Weefsel/Puin\|Puin]] in een ander licht te zien. Het maakt zichtbaar hoe we deel uitmaken van grotere structuren – [[Weefsel/Ecologie\|Ecologie]] sociaal, economisch – waar we ons niet zomaar van kunnen losmaken. Zoals we klimaatverandering niet kunnen ‘zien’, maar wel voelen in een warme meimaand, zo zijn ook onze afvalbergen ongrijpbare lichamen die blijven groeien, deels buiten ons gezichtsveld.
 
-Wanneer we [puin](https://aesthetic-cajeta-5f1a10.netlify.app/puin/) [poëtiseren](https://aesthetic-cajeta-5f1a10.netlify.app/404) maken we ruimte om het onzichtbare even tastbaar te maken. Niet om het op te lossen, maar om het toe te laten. Door afval niet langer weg te stoppen, maar er opnieuw naar te kijken, ontstaan openingen naar betekenis, naar vragen, naar verbeelding. In die zin lijkt het bestuderen van hyperobjecten op het [transformeren van puin](https://aesthetic-cajeta-5f1a10.netlify.app/transformeren-en-poetiseren/): beide vragen dat we ons vertrouwde perspectief verlaten, en ons durven verhouden tot iets dat groter is dan onszelf.
-
-
+Wanneer we [[Weefsel/Puin\|Puin]] [[Weefsel/Transformeren en poëtiseren\|transformeren]] maken we ruimte om het onzichtbare even tastbaar te maken. Niet om het op te lossen, maar om het toe te laten. Door afval niet langer weg te stoppen, maar er opnieuw naar te kijken, ontstaan openingen naar betekenis, naar vragen, naar verbeelding. In die zin lijkt het bestuderen van hyperobjecten op het [[Weefsel/Transformeren en poëtiseren\|transformeren van puin]] beide vragen dat we ons vertrouwde perspectief verlaten, en ons durven verhouden tot iets dat groter is dan onszelf.
+![Pasted image 20251213174419.png](/img/user/Pasted%20image%2020251213174419.png)
 
 [Bibliografie](https://aesthetic-cajeta-5f1a10.netlify.app/bibliografie/)
 

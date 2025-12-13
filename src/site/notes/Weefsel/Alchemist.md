@@ -12,7 +12,7 @@ Maar wat als een kunstenaar werkelijk zou proberen de wereld op een zuiver analy
 
 Roland Barthes verwijst in zijn essay over [[Weefsel/Plastic\|Plastic]] naar deze alchemistische dimensie van het moderne productieproces. Hij ziet het transformeren van ruwe grondstof tot een plastieken staaf als een hedendaagse, bijna magische daad: een moderne vorm van alchemie.  
 (Barthes, R., Lavers, A., & Barthes, R. (2006))  
-Maar hier rijst de vraag: zou een alchemist dit werkelijk een waardevolle [[Weefsel/Transformatie\|Transformatie]]formatie]vinden? Is het produceren van synthetisch materiaal, dat de natuur vervangt en vervuilt, een daadwerkelijke waardevermeerdering? Doet dit niet af aan het oorspronkelijke alchemistische streven?
+Maar hier rijst de vraag: zou een alchemist dit werkelijk een waardevolle [[Transformatie\|Transformatie]]formatie]vinden? Is het produceren van synthetisch materiaal, dat de natuur vervangt en vervuilt, een daadwerkelijke waardevermeerdering? Doet dit niet af aan het oorspronkelijke alchemistische streven?
 
 Vanuit een hedendaags ecologisch en niet economisch perspectief lijkt deze vorm van transformatie eerder destructief dan positief. Waar de alchemist trachtte te verzoenen met de natuurkrachten, lijkt de moderne mens ze eerder te onderdrukken. Misschien is het dan ook tijd om de alchemist opnieuw te bekijken, niet als symbool van beheersing, maar als gids voor een andere omgang met materiaal, met aandacht voor verwondering, traagheid en respect voor de cycli van de natuur.
 
