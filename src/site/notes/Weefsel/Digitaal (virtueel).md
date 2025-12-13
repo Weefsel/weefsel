@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/weefsel/digitaal-virtueel/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-02T14:35:17.131+01:00","updated":"2025-12-08T16:38:39.000+01:00"}
+{"dg-publish":true,"permalink":"/weefsel/digitaal-virtueel/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-02T14:35:17.131+01:00","updated":"2025-12-13T21:53:58.347+01:00"}
 ---
 
 
@@ -7,7 +7,7 @@ In het hedendaagse digitale tijdperk worden we omringd door een brede waaier aan
 
 Binnen kunst kan deze digitaliteit niet enkel beschouwd worden als een bedreiging of verstoring, maar ook als een middel tot transformatie. Zoals Katleen Gabriels in _Onlife_ beschrijft, biedt het virtuele een kader om te denken voorbij het zichtbare, voorbij het tastbare. In de achttiende eeuw werd het virtuele gedefinieerd als een illusoir beeld, een projectie zoals een spiegelbeeld dat lijkt te bestaan maar nergens in werkelijkheid aanwezig is. Dit klassieke idee van het virtuele als schijn heeft onze opvatting over realiteit grondig bevraagd, want wat betekent het nog om 'echt' te zijn wanneer onze relaties, identiteiten en ervaringen zich steeds meer afspelen binnen digitale simulaties? Vandaag spreken we moeiteloos over virtuele werelden, virtuele vrienden, virtuele identiteiten en media. Het woord 'virtueel' is echter zo vaak en breed ingezet dat het zijn scherpte verloren is en bijna leeg geworden is als concept, of misschien juist alomvattend: het bevat alles en daardoor niets.
 
-Toch is het precies in deze vervaging van grenzen dat een pedagogische kracht schuilt. Binnen een educatief proces gericht op [[Transformatie\|Transformatie]] kan het digitale worden ingezet als spiegel, als spiegelbeeld of schaduw die ons dwingt onze positie als mens, als maker, als waarnemer te herdenken. Wanneer een leerling een digitaal beeld bewerkt, transformeert of ervaart, ontstaat een ruimte waarin realiteit en representatie elkaar raken, botsen of zelfs overlappen. In dit grensgebied kunnen nieuwe vormen van verwondering ontstaan, niet ondanks maar dankzij de artificiële tussenkomst van het digitale. Net zoals microplastics ons confronteren met de onomkeerbaarheid van menselijke aanwezigheid in de natuur, confronteert het digitale ons met onze plaats binnen een steeds meer virtuele werkelijkheid.
+Toch is het precies in deze vervaging van grenzen dat een pedagogische kracht schuilt. Binnen een educatief proces gericht op [[Weefsel/Transformeren en poëtiseren\|transformeren]] kan het digitale worden ingezet als spiegel, als spiegelbeeld of schaduw die ons dwingt onze positie als mens, als maker, als waarnemer te herdenken. Wanneer een leerling een digitaal beeld bewerkt, transformeert of ervaart, ontstaat een ruimte waarin realiteit en representatie elkaar raken, botsen of zelfs overlappen. In dit grensgebied kunnen nieuwe vormen van verwondering ontstaan, niet ondanks maar dankzij de artificiële tussenkomst van het digitale. Net zoals microplastics ons confronteren met de onomkeerbaarheid van menselijke aanwezigheid in de natuur, confronteert het digitale ons met onze plaats binnen een steeds meer virtuele werkelijkheid.
 
 [Bibliografie]
 
