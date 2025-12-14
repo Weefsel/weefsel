@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/weefsel/digitaal-virtueel/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-02T14:35:17.131+01:00","updated":"2025-12-13T21:53:58.347+01:00"}
+{"dg-publish":true,"permalink":"/weefsel/digitaal-virtueel/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-02T14:35:17.131+01:00","updated":"2025-12-14T21:48:44.350+01:00"}
 ---
-
 
 In het hedendaagse digitale tijdperk worden we omringd door een brede waaier aan digitale verschijningsvormen van sociale media en cloud computing tot kunstmatige intelligentie en het Internet der dingen. Deze digitale aanwezigheid is niet louter een externe realiteit, maar is diep doorgedrongen in onze persoonlijke leefwereld. Ze nestelt zich in onze lichamen, in ons denken en in onze omgeving, en vormt daarmee een intrigerende parallel met een ander hardnekkig fenomeen van onze tijd: microplastics. Het niet-natuurlijke dat zich onzichtbaar en onuitroeibaar in de natuur infiltreert als een kunstmatige invasie, raakt net als digitale technologie verweven met het levende, het tastbare en het natuurlijke. Deze parallellen roepen vragen op over de grenzen tussen echt en kunstmatig, natuurlijk en synthetisch, en maken zichtbaar hoe beide fenomenen een diepgaande invloed uitoefenen op hoe we vandaag de wereld waarnemen, ervaren en vormgeven.
 
@@ -12,3 +11,5 @@ Toch is het precies in deze vervaging van grenzen dat een pedagogische kracht sc
 [Bibliografie]
 
 Gabriels, K. (2016). _Onlife: Hoe de digitale wereld je leven bepaalt_. Lannoo.
+
+![Pasted image 20251214214842.png](/img/user/Pasted%20image%2020251214214842.png)

@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/weefsel/ecologie/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-02T14:35:17.146+01:00","updated":"2025-12-13T21:58:41.728+01:00"}
+{"dg-publish":true,"permalink":"/weefsel/ecologie/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-02T14:35:17.146+01:00","updated":"2025-12-14T21:27:21.634+01:00"}
 ---
-
 
 Ecologie is de wetenschap die onderzoekt hoe organismen – planten, dieren en mensen – met elkaar en hun omgeving in interactie staan. Ze legt de systemen bloot waarin deze relaties plaatsvinden en hoe ze elkaar beïnvloeden. Het doel is niet alleen te begrijpen hoe de natuur werkt, maar ook om onze plek en rol daarin beter te doorgronden.
 
