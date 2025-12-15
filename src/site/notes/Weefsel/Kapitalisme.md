@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/weefsel/kapitalisme/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-02T15:11:04.342+01:00","updated":"2025-12-13T21:49:14.770+01:00"}
+{"dg-publish":true,"permalink":"/weefsel/kapitalisme/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-02T15:11:04.342+01:00","updated":"2025-12-15T22:32:49.903+01:00"}
 ---
 
 ### Kapitalisme digitaliseert hoe staan we er in?
@@ -24,3 +24,5 @@ Barthes, Roland. _Mythologies_. Parijs: Éditions du Seuil, 1977.
 Gabriels, Katleen. _Onlife: hoe de digitale wereld je leven bepaalt_. Tielt: Lannoo, 2016.
 
 Morton, Timothy. _Hyperobjects: Philosophy and Ecology after the End of the World_. Minneapolis: University of Minnesota Press, 2013.
+![Pasted image 20251215223220.png](/img/user/Pasted%20image%2020251215223220.png)
+![Pasted image 20251215222902.png](/img/user/Pasted%20image%2020251215222902.png)![_DSC1423.jpg](/img/user/_DSC1423.jpg)
