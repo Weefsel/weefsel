@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/symbiose/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-13T16:52:40.862+01:00","updated":"2025-12-14T21:50:18.238+01:00"}
+{"dg-publish":true,"permalink":"/symbiose/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-13T16:52:40.862+01:00","updated":"2025-12-15T19:49:14.201+01:00"}
 ---
 
 Een andere verhelderend werk ‘Entangled Life’ (2020) van Merlin Sheldrake (brits schrijver, bioloog en mycoloog) geeft een inzicht in het verborgen leven van schimmels. Er kan geen sprake meer zijn van de klassieke vorm van het bestuderen van soorten. Alles is van elkaar afhankelijk. Ecologie, de studie van systematische relaties tussen levende organismen wint aan belang ten op zichte van de traditionele biologie. Ook zo is de neodarwinistische theorie van Charles Dawkins aan nuance toe. Charles Dawkins, brits moleculair bioloog (°1941-) beschreef in zijn boek ‘The Selfish Gene’ (1976) dat we niet meer zijn dan overlevingsmachines, robotvoertuigen die geprogrammeerd zijn om de zelfzuchtige moleculen, die bekend staan als genen, te behouden. Lynn Margulis, amerikaans evolutionair biologe (1938-2011), echter vechtte dit principe aan met haar symbiogenetische theorie. Ze stelde dat de evolutie zich niet enkel ontwikkelde volgens het principe van het recht van de sterkste, maar door de kracht van samenwerking.
@@ -19,3 +19,5 @@ Korstmossen is geen zuivere categorie, maar een symbiose tussen algen en schimme
 The queer theory of Lichen:
 
 De ‘queer-theorie van korstmossen’, gepopulariseerd door David Griffiths' essay Queer Theory for Lichens, stelt dat korstmossen (symbiotische organismen van schimmels en algen/cyanobacteriën) queer principes belichamen door biologische normen van individualiteit en vaste identiteit uit te dagen, waardoor het leven wordt onthuld als vloeiende, onderling verbonden netwerken in plaats van geïsoleerde eenheden, waardoor heteronormatieve ideeën over voortplanting en zelfbewustzijn worden verstoord en modellen worden geboden voor niet-binaire relaties in de natuur en de samenleving. Het suggereert dat ‘we nooit individuen zijn geweest’ en laat zien hoe al het leven een complexe verstrengeling is, geen afzonderlijke entiteit.
+
+![_DSC1359.jpg](/img/user/_DSC1359.jpg)

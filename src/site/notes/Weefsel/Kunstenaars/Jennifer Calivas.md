@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/weefsel/kunstenaars/jennifer-calivas/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-02T14:49:12.607+01:00","updated":"2025-12-09T13:12:51.000+01:00"}
+{"dg-publish":true,"permalink":"/weefsel/kunstenaars/jennifer-calivas/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-02T14:49:12.607+01:00","updated":"2025-12-15T18:37:19.384+01:00"}
 ---
 
 #Fotograaf 
@@ -10,8 +10,7 @@ Toch verraadt de draadontspanner, subtiel aanwezig in het beeld, de mechaniek ac
 Juist door deze spanningsboog tussen zichtbaarheid en onzichtbaarheid, tussen opgaan in en opgemerkt worden, schuilt er kracht in het beeld. De camouflage biedt rust en stilte, een tegenbeweging tegenover de constante prikkel van Instagrambeelden, die schreeuwen om gezien te worden. Waar sociale media lichamen tonen die zich willen onderscheiden, wil Zig verdwijnen, oplossen, versmelten.
 
 Daarin ligt een parallel met ons [[Weefsel/Puin\|afval:]]ook dat probeert zich vaak stilletjes terug te trekken in het landschap, te vergaan, een te worden met zijn omgeving. Maar net zoals Zig’s draadontspanner de fictie doorprikt, doorprikt ook de blijvende zichtbaarheid van afval onze illusie van verdwijnen. Beide confronteren ons met aanwezigheid, zelfs in camouflage.
-
-  ![Pasted image 20250607114523.png](https://aesthetic-cajeta-5f1a10.netlify.app/img/user/Pasted%20image%2020250607114523.png)  ![Pasted image 20250607114536.png](https://aesthetic-cajeta-5f1a10.netlify.app/img/user/Pasted%20image%2020250607114536.png)  ![Pasted image 20250607120115.png](https://aesthetic-cajeta-5f1a10.netlify.app/img/user/Pasted%20image%2020250607120115.png)  
+![Pasted image 20251215183714.png](/img/user/Pasted%20image%2020251215183714.png)![Pasted image 20250607114523.png](https://aesthetic-cajeta-5f1a10.netlify.app/img/user/Pasted%20image%2020250607114523.png)  ![Pasted image 20250607114536.png](https://aesthetic-cajeta-5f1a10.netlify.app/img/user/Pasted%20image%2020250607114536.png)  ![Pasted image 20250607120115.png](https://aesthetic-cajeta-5f1a10.netlify.app/img/user/Pasted%20image%2020250607120115.png)  
 (Jenny Calivas 2025)
 
 [Bibliografie]

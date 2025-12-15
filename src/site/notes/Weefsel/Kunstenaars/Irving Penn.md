@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/weefsel/kunstenaars/irving-penn/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-02T14:35:16.891+01:00","updated":"2025-12-08T12:35:12.000+01:00"}
+{"dg-publish":true,"permalink":"/weefsel/kunstenaars/irving-penn/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-02T14:35:16.891+01:00","updated":"2025-12-15T18:07:36.064+01:00"}
 ---
 
 #Fotograaf
@@ -9,4 +9,8 @@ Penn ontwikkelde een bijzondere techniek voor zijn fotografische werk. Hij gebru
 In zijn intrigerende fotoserie _Underfoot_ nodigt Penn ons uit om stil te staan bij wat we normaal gesproken gedachteloos voorbijlopen. De compositie van iedere foto is doelbewust minimalistisch: elk beeld richt zich op één enkel voorwerp, waarbij Penn met precisie en gevoeligheid de unieke texturen, vormen en schaduwen vastlegt. Hoewel het alledaagse objecten zijn, weet Penn ze te transformeren tot bijna abstracte kunstwerken die onze verbeelding prikkelen. Penn verwoordde zijn fotografische filosofie treffend: fotografie moet de realiteit vastleggen maar streeft er tegelijkertijd naar om zich ervan los te maken.
 
 Er schuilt een subtiele maar onmiskenbare humor in dit project. Terwijl andere fotografen in New York de imposante wolkenkrabbers, bruisende mensenmassa's en iconische landmarks vastlegden, koos Penn ervoor om zijn lens naar beneden te richten en schoonheid te vinden waar anderen overheen stapten. Deze tegendraadse benadering typeert Penn's vermogen om het buitengewone in het gewone te ontdekken.
+![Pasted image 20251215180631.png](/img/user/Pasted%20image%2020251215180631.png)
+![Pasted image 20251215180106.png](/img/user/Pasted%20image%2020251215180106.png)
 ![Pasted image 20250525200321.png](/img/user/Beelden/Bronnen/Pasted%20image%2020250525200321.png)
+![Pasted image 20251215180247.png](/img/user/Pasted%20image%2020251215180247.png)
+![Pasted image 20251215180238.png](/img/user/Pasted%20image%2020251215180238.png)
